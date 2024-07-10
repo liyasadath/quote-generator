@@ -1,0 +1,21 @@
+.container-fluid{
+background-color: rgb(30, 30, 128);
+}
+.nav-link {
+    color: white;
+}
+.navhome{
+    color: white;
+}
+.navbar-nav{
+    justify-content: space-between;
+    width: 200vh;
+}
+.navbar{
+    padding: 0px;
+}
+.navcard{
+padding-left: 1240%;
+}
+    
+
